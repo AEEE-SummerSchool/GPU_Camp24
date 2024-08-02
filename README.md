@@ -26,15 +26,15 @@ You can follow the steps below to access to our remote lab:
 1. Open your browser and type **http://111.229.117.44:8991/signin/** to login in. If you have not registered yet, choose "sign up here" to register your account.
 
 2. Choose **NUS-GPU Access**. Login in with your access token.
-![avater](imgs/tokens.png)
+![avater](imgs/nus_login.png)
 
 3. Enter the jupyter hub with your link and password. 
-![avater](imgs/jupyterlab.png)
+![avater](imgs/link.png)
 
-4. Open the provided link and login in with your password. (You can click password to copy it)
-
-5. Choose **"AMD GPU"** for Lab1.
+4. Choose **"AMD GPU"** for Lab1 and **"RAG"** for Lab2.
 ![avater](imgs/serve_option.png)
+
+5. Start playing.
 
 ## Homework
 
@@ -43,7 +43,14 @@ You can follow the steps below to access to our remote lab:
 In this lab, we will not only delve deeply into the programming techniques of AMD GPUs, but also guide you through practice to master the AMD GPU programming model HIP (Heterogeneous-Compute Interface for Portability). Our goal is to start from the basic concepts, gradually build a profound understanding of HIP program development, and ultimately enable you to independently write and run your own HIP programs.
 
 #### Homeworks
-
+Finish the exercises in [[exercises]](introduction_to_hip/exercises/): \
+    [01_error_check](introduction_to_hip/exercises/01_error_check/) \
+    [02_add_d2h_data_transfer](introduction_to_hip/exercises/02_add_d2h_data_transfer/) \
+    [03_complete_square_elements](introduction_to_hip/exercises/03_complete_square_elements/) \
+    [04_complete_matrix_multiply](introduction_to_hip/exercises/04_complete_matrix_multiply/) \
+    [05_compare_with_library](introduction_to_hip/exercises/05_compare_with_library/) \
+    [06_hipify_pingpong](introduction_to_hip/exercises/06_hipify_pingpong/) \
+    [07_matrix_multiply_shared](introduction_to_hip/exercises/07_matrix_multiply_shared/)
 
 
 ### Lab2: A simple RAG system
@@ -54,7 +61,7 @@ In this lab, we will explore how to use LLMs to transform documents into knowled
 
 1. Change the query prompt in **Step 3. Build RAG chain** to make the llm RAG system response in json format.
 2. Replace the the input documentation in **Step 2. Indexing your file** with your own documentation；
-3. ；
+3. (Adavanced) Is there a better way to improve the performance of RAG system ?
 
 
 
