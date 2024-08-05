@@ -40,7 +40,7 @@ In this lab, we will not only delve deeply into the programming techniques of AM
 
 #### Homeworks
 
-Finish the exercises in [[exercises]](introduction_to_hip/exercises/): \ 
+Finish the exercises in [[exercises]](introduction_to_hip/exercises/): \
     [01_error_check](introduction_to_hip/exercises/01_error_check/) \
     [02_add_d2h_data_transfer](introduction_to_hip/exercises/02_add_d2h_data_transfer/) \
     [03_complete_square_elements](introduction_to_hip/exercises/03_complete_square_elements/) \
