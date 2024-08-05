@@ -69,10 +69,10 @@ In this lab, we will explore how to use LLMs to transform documents into knowled
 
 ## Addition meterial
 
-[[Langchain]](https://github.com/langchain-ai/langchain) 
-[[ROCm documentation]](https://hipfft.readthedocs.io/en/rocm-6.1.2/index.html) 
-[[HIP documentation]](https://rocm.docs.amd.com/projects/HIP/en/latest/) 
-[[PowerInfer]](https://github.com/SJTU-IPADS/PowerInfer) 
-[[ollama]](https://ollama.com/) 
-[[infinity AI]](https://infinity.ai/) 
-[[GPU CAMP Remote LAB]](http://111.229.117.44:8991/signin/)
+[[Langchain]](https://github.com/langchain-ai/langchain) \
+[[ROCm documentation]](https://hipfft.readthedocs.io/en/rocm-6.1.2/index.html) \
+[[HIP documentation]](https://rocm.docs.amd.com/projects/HIP/en/latest/) \
+[[PowerInfer]](https://github.com/SJTU-IPADS/PowerInfer) \
+[[ollama]](https://ollama.com/) \
+[[Infini AI]](https://cloud.infini-ai.com/platform/ai) \
+[[GPU CAMP Remote LAB]](http://111.229.117.44:8991/signin/) \
