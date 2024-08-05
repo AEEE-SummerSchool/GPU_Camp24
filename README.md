@@ -40,14 +40,7 @@ In this lab, we will not only delve deeply into the programming techniques of AM
 
 #### Homeworks
 
-Finish the exercises in [[exercises]](introduction_to_hip/exercises/): \
-    [01_error_check](introduction_to_hip/exercises/01_error_check/) \
-    [02_add_d2h_data_transfer](introduction_to_hip/exercises/02_add_d2h_data_transfer/) \
-    [03_complete_square_elements](introduction_to_hip/exercises/03_complete_square_elements/) \
-    [04_complete_matrix_multiply](introduction_to_hip/exercises/04_complete_matrix_multiply/) \
-    [05_compare_with_library](introduction_to_hip/exercises/05_compare_with_library/) \
-    [06_hipify_pingpong](introduction_to_hip/exercises/06_hipify_pingpong/) \
-    [07_matrix_multiply_shared](introduction_to_hip/exercises/07_matrix_multiply_shared/)
+Finish the exercises in [[exercises]](introduction_to_hip/lab1_introduction_to_hip/lab1_hip_exercises.ipynb).
 
 ### Lab2: A simple RAG system
 
